@@ -1,0 +1,39 @@
+fait — Today at 13:54
+mikä hierarkia hä
+Antti — Today at 13:54
+ohan se
+Image
+romeq — Today at 13:54
+man hier (missä filujen kuuluis olla) 
+Mixu_78 — Today at 13:54
+git bash hyh
+wsl komeampi
+fait — Today at 13:54
+bruh mitä
+romeq — Today at 13:54
+itellä ei :contabo_hymio~1:
+fait — Today at 13:54
+emmä wsl oo sen takia käynnistämässä et voin kattoo missä vitussa mun rustup on
+Luukasa (pro git-user) 🦜 — Today at 13:55
+wat donk?
+fait — Today at 13:55
+eikä mulla ole ees rustia wsl:llä
+Mixu_78 — Today at 13:55
+wsl v1
+fait — Today at 13:55
+see no rust
+Image
+Mixu_78 — Today at 13:55
+wsl v2 issue
+romeq — Today at 13:55
+which ettii pathista
+Antti — Today at 13:55
+aa man hier ja man file-hierarchy on eri asioita
+on se hierissäkin
+Image
+romeq — Today at 13:56
+:contabo_hymio~1: tokalla kerralla näkyy
+Image
+mitä helvettiä
+Luukasa (pro git-user) 🦜 — Today at 13:56
+sounds like pager skill-issue
